@@ -1,0 +1,66 @@
+2024-05-04 12:15:53,475 - __main__ - INFO - Apps are running:
+2024-05-04 12:15:59,131 - __main__ - INFO - Spam is running...
+2024-05-04 12:16:02,653 - __main__ - INFO - Exit program! Error
+2024-05-04 12:16:33,195 - __main__ - INFO - Apps are running:
+2024-05-04 12:17:50,919 - __main__ - INFO - Exit program! Error
+2024-05-04 12:17:54,282 - __main__ - INFO - Apps are running:
+2024-05-04 12:17:56,200 - __main__ - INFO - Connect to process: 6332
+2024-05-04 12:17:56,363 - __main__ - INFO - Connect to process: 13340
+2024-05-04 12:17:56,383 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:21:21,348 - __main__ - INFO - Exit program! Error
+2024-05-04 12:21:24,376 - __main__ - INFO - Apps are running:
+2024-05-04 12:21:24,376 - __main__ - ERROR - Line 47: Error when connect to Roblox!
+2024-05-04 12:21:24,377 - __main__ - ERROR - process_get_modules() got an unexpected keyword argument 'module'
+2024-05-04 12:21:53,627 - __main__ - INFO - Exit program! Error
+2024-05-04 12:21:58,484 - __main__ - INFO - Apps are running:
+2024-05-04 12:21:58,484 - __main__ - ERROR - Line 47: Error when connect to Roblox!
+2024-05-04 12:21:58,485 - __main__ - ERROR - process_get_modules() takes 0 positional arguments but 1 was given
+2024-05-04 12:22:10,672 - __main__ - INFO - Reload app Roblox!
+2024-05-04 12:22:10,673 - __main__ - INFO - Apps are running:
+2024-05-04 12:22:10,673 - __main__ - ERROR - Line 134: Error when connect to Roblox!
+2024-05-04 12:22:10,673 - __main__ - ERROR - process_get_modules() takes 0 positional arguments but 1 was given
+2024-05-04 12:22:10,759 - __main__ - INFO - Exit program! Error
+2024-05-04 12:22:34,699 - __main__ - INFO - Apps are running:
+2024-05-04 12:22:36,210 - __main__ - INFO - Connect to process: 6332
+2024-05-04 12:22:36,348 - __main__ - INFO - Connect to process: 13340
+2024-05-04 12:22:36,363 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:24:04,006 - __main__ - INFO - Exit program! Error
+2024-05-04 12:24:06,956 - __main__ - INFO - Apps are running:
+2024-05-04 12:24:07,697 - __main__ - INFO - Connect to process: 6332
+2024-05-04 12:24:07,862 - __main__ - INFO - Connect to process: 13340
+2024-05-04 12:24:07,880 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:24:37,481 - __main__ - INFO - Exit program! Error
+2024-05-04 12:24:40,147 - __main__ - INFO - Apps are running:
+2024-05-04 12:24:40,556 - __main__ - INFO - Connect to process: 6332
+2024-05-04 12:24:40,724 - __main__ - INFO - Connect to process: 13340
+2024-05-04 12:24:40,742 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:31:52,860 - __main__ - INFO - Exit program! Error
+2024-05-04 12:32:07,502 - __main__ - INFO - Apps are running:
+2024-05-04 12:32:08,004 - __main__ - INFO - Connect to process: 5992
+2024-05-04 12:32:08,234 - __main__ - INFO - Connect to process: 14772
+2024-05-04 12:32:08,257 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:34:56,240 - __main__ - INFO - Exit program! Error
+2024-05-04 12:35:00,083 - __main__ - INFO - Apps are running:
+2024-05-04 12:35:00,130 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:35:04,223 - __main__ - INFO - Spam is running...
+2024-05-04 12:35:48,739 - __main__ - INFO - Exit program! Error
+2024-05-04 12:35:52,110 - __main__ - INFO - Apps are running:
+2024-05-04 12:35:52,156 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:35:57,095 - __main__ - INFO - Spam is running...
+2024-05-04 12:36:45,359 - __main__ - INFO - Exit program! Error
+2024-05-04 12:36:48,310 - __main__ - INFO - Apps are running:
+2024-05-04 12:36:48,345 - __main__ - INFO - Connect to process: 5992
+2024-05-04 12:36:48,348 - __main__ - INFO - Connect to process: 14772
+2024-05-04 12:36:48,350 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:36:51,685 - __main__ - INFO - Reload app Roblox!
+2024-05-04 12:36:51,685 - __main__ - INFO - Apps are running:
+2024-05-04 12:36:51,703 - __main__ - INFO - Connect to process: 5992
+2024-05-04 12:36:51,704 - __main__ - INFO - Connect to process: 14772
+2024-05-04 12:36:51,704 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:36:54,362 - __main__ - INFO - Spam is stopped!
+2024-05-04 12:36:55,276 - __main__ - INFO - Reload app Roblox!
+2024-05-04 12:36:55,276 - __main__ - INFO - Apps are running:
+2024-05-04 12:36:55,298 - __main__ - INFO - Connect to process: 5992
+2024-05-04 12:36:55,300 - __main__ - INFO - Connect to process: 14772
+2024-05-04 12:36:55,301 - __main__ - INFO - Connect to Roblox success!
+2024-05-04 12:37:01,945 - __main__ - INFO - Exit program! Error
